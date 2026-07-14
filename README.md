@@ -1,0 +1,2 @@
+# ottawagoldlodge
+Static site: ottawagoldlodge
